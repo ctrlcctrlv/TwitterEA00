@@ -1,0 +1,5 @@
+@GDEF_Simple = [\uea00];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple, , , ;
+} GDEF;
