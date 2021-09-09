@@ -2,6 +2,8 @@
 
 ![Info](https://raw.githubusercontent.com/ctrlcctrlv/TwitterEA00/master/specimens/screenshot.png)
 
+* [**Download the font**](https://github.com/ctrlcctrlv/TwitterEA00/raw/main/dist/TwitterEA00.ttf)
+
 As I detailed in [“Emojibake” are considered harmful](https://fredrickbrennan.medium.com/emojibake-are-considered-harmful-f87e65cf4c6e), Twitter has allowed users to use the Unicode Private Use Area character U+EA00 to represent its logo.
 
 This has caused confusion on non-Twitter run websites which aren't using Twitter's proprietary “Chirp” (GT America with tweaks) font.
