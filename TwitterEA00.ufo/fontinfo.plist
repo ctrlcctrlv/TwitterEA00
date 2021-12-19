@@ -11,7 +11,7 @@
     <key>versionMajor</key>
     <integer>1</integer>
     <key>versionMinor</key>
-    <integer>0</integer>
+    <integer>1</integer>
     <key>copyright</key>
     <string>Public domain, CC0, to the extent possible. By Fredrick R. Brennan.</string>
     <key>unitsPerEm</key>
@@ -32,8 +32,6 @@
     <integer>116</integer>
     <key>openTypeHheaLineGap</key>
     <integer>0</integer>
-    <key>openTypeNameVersion</key>
-    <string>Version 1.000</string>
     <key>postscriptFontName</key>
     <string>TwitterEA00</string>
     <key>postscriptFullName</key>
